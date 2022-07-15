@@ -1,0 +1,25 @@
+body {
+    background-color: #222;
+    color: #eee;
+    width: 200px;
+    height: 300px;
+}
+
+h3 {
+    text-align: center;
+}
+
+#toggleEnable {
+    background-color: transparent;
+    background-repeat: no-repeat;
+    border: none;
+    cursor: pointer;
+    overflow: hidden;
+    outline: none;
+    margin: 0 auto;
+}
+
+#toggleEnableImage {
+    width: 100px;
+    height: 100px;
+}
